@@ -1,0 +1,21 @@
+body {
+  background: whitesmoke;
+}
+.main {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.main h1 {
+  margin-bottom: 100px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+}
+.buttons button {
+  margin: 10px;
+}
